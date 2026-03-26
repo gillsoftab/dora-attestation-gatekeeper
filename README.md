@@ -19,7 +19,6 @@ DORA and its delegated regulation (EU) 2024/1773, Article 3(6)(b), require that 
 - **The signing key is the sole security barrier.** A compromised key gives immediate, irrevocable access to the customer's funds up to the daily transaction limit.
 - **At least one actor complies — but is not verified.** At least one technical supplier in the Swish ecosystem uses HSM in accordance with DORA's requirements and can provide independently verifiable cryptographic attestation proof. This attestation can be verified by EBA without the actor's cooperation. Yet neither the banks, GetSwish AB, nor the NCA (Finansinspektionen) have ever requested or verified this proof. This establishes that compliance is achievable, that the verification mechanism functions, and that the supervisory failure is complete — even compliant actors are not verified.
 
-
 ### 2. The Supervisory Method Gap
 
 A principles-based supervisory method that examines whether contractual requirements exist — but not whether they are met — cannot detect non-compliance in cases where the only independently verifiable proof of compliance is cryptographic. DORA requires financial entities to ensure authenticity and integrity, not merely to contractually require it.
